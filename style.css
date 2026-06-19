@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 50px;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+p {
+    color: #555;
+    font-size: 18px;
+}
+
+.code {
+    background-color: #eee;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: left;
+}
